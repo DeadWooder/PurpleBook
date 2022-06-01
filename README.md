@@ -9,6 +9,12 @@
 * 例题文件名只标注题目 "title.c"
 * 习题文件名格式为 "title-\$Ap\$B.c" \$A是章节号，\$B是习题编号
 
+## 运行环境
+
+* system: windows10
+* compiler: gcc, MinGW
+* debug: gdb 
+
 ## Note
 
 本人水平非常有限，代码多有错误之处。
