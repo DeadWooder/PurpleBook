@@ -15,6 +15,11 @@
 * compiler: gcc, MinGW
 * debug: gdb 
 
+## 进度
+
+* section01 c入门
+* section02 循环
+
 ## Note
 
 本人水平非常有限，代码多有错误之处。
